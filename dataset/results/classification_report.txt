@@ -1,0 +1,21 @@
+CYBER ATTACK DETECTION RESULTS
+==================================================
+
+Algorithm : Decision Tree
+Accuracy  : 0.9465
+Precision : 0.9476
+Recall    : 0.9465
+F1 Score  : 0.9468
+----------------------------------------
+Algorithm : Random Forest
+Accuracy  : 0.9910
+Precision : 0.9909
+Recall    : 0.9910
+F1 Score  : 0.9910
+----------------------------------------
+Algorithm : DNN
+Accuracy  : 0.9647
+Precision : 0.9657
+Recall    : 0.9647
+F1 Score  : 0.9645
+----------------------------------------
