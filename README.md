@@ -8,6 +8,7 @@ This project detects and attributes cyber attacks in Industrial IoT systems usin
 
 - AutoEncoder
 - PCA
+- random forest
 - Decision Tree
 - Deep Neural Network
 
